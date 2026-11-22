@@ -1,5 +1,5 @@
 /* Imtira Visual — theme. Colours are at the top: change them here. */
-@font-face{font-family:"Coolvetica";src:local("Coolvetica"),local("Coolvetica Regular"),url("../assets/fonts/Coolvetica.woff2") format("woff2"),url("../assets/fonts/Coolvetica.otf") format("opentype"),url("../assets/fonts/Coolvetica.ttf") format("truetype");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Coolvetica";src:local("Coolvetica"),local("Coolvetica Regular"),url("Coolvetica.otf") format("opentype");font-weight:400;font-style:normal;font-display:swap}
 
 :root{
   --bg:#0F1F1E; --bg2:#142A28; --green:#1F3332; --line:rgba(192,161,132,.22);
