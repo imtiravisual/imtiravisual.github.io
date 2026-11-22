@@ -13,7 +13,7 @@ window.SITE = {
 
   /* Contact form: get a free key at https://web3forms.com (enter your email, they send the key).
      Paste it below. While empty, the form opens the visitor's email app instead. */
-  formKey: "",
+  formKey: "be0635b1-c6a6-4ce6-83e6-16c98fd22200",
 
   /* ---- Hero phones (the 3 vertical videos in the first screen) ----
      poster = cover image, src = video file. */
